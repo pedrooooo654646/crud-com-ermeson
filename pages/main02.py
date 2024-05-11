@@ -13,5 +13,6 @@ with tab02:
 
 with tab03:
     st.image('https://www.petz.com.br/blog/wp-content/uploads/2021/08/pato-de-estimacao.jpg')
+    st.image('https://www.petz.com.br/blog/wp-content/uploads/2021/08/pato-de-estimacao.jpg')
 
 
