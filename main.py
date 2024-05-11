@@ -1,3 +1,4 @@
 import streamlit as st 
+st.set_page_config(page_title='principal')
+st.write('TESTE')
 
-st.write('teste')
