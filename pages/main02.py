@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config('secundária')
-st.wirte('deu certo kkkk')
+st.write('deu certo kkkk')
 tab01, tab02, tab03 = st.tabs(['pagina 1', 'pagina 2 com o video', 'pagina 3 com a foto'])
 
 with tab01:
